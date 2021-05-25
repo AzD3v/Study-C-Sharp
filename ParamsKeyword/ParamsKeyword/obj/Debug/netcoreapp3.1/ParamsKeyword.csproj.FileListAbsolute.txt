@@ -1,0 +1,12 @@
+C:\Users\Paulo\source\repos\ParamsKeyword\ParamsKeyword\bin\Debug\netcoreapp3.1\ParamsKeyword.exe
+C:\Users\Paulo\source\repos\ParamsKeyword\ParamsKeyword\bin\Debug\netcoreapp3.1\ParamsKeyword.deps.json
+C:\Users\Paulo\source\repos\ParamsKeyword\ParamsKeyword\bin\Debug\netcoreapp3.1\ParamsKeyword.runtimeconfig.json
+C:\Users\Paulo\source\repos\ParamsKeyword\ParamsKeyword\bin\Debug\netcoreapp3.1\ParamsKeyword.runtimeconfig.dev.json
+C:\Users\Paulo\source\repos\ParamsKeyword\ParamsKeyword\bin\Debug\netcoreapp3.1\ParamsKeyword.dll
+C:\Users\Paulo\source\repos\ParamsKeyword\ParamsKeyword\bin\Debug\netcoreapp3.1\ParamsKeyword.pdb
+C:\Users\Paulo\source\repos\ParamsKeyword\ParamsKeyword\obj\Debug\netcoreapp3.1\ParamsKeyword.AssemblyInfoInputs.cache
+C:\Users\Paulo\source\repos\ParamsKeyword\ParamsKeyword\obj\Debug\netcoreapp3.1\ParamsKeyword.AssemblyInfo.cs
+C:\Users\Paulo\source\repos\ParamsKeyword\ParamsKeyword\obj\Debug\netcoreapp3.1\ParamsKeyword.csproj.CoreCompileInputs.cache
+C:\Users\Paulo\source\repos\ParamsKeyword\ParamsKeyword\obj\Debug\netcoreapp3.1\ParamsKeyword.dll
+C:\Users\Paulo\source\repos\ParamsKeyword\ParamsKeyword\obj\Debug\netcoreapp3.1\ParamsKeyword.pdb
+C:\Users\Paulo\source\repos\ParamsKeyword\ParamsKeyword\obj\Debug\netcoreapp3.1\ParamsKeyword.genruntimeconfig.cache

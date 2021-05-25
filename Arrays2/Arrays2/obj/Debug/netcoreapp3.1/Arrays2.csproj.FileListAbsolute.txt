@@ -1,0 +1,13 @@
+C:\Users\Paulo\source\repos\Arrays2\Arrays2\bin\Debug\netcoreapp3.1\Arrays2.exe
+C:\Users\Paulo\source\repos\Arrays2\Arrays2\bin\Debug\netcoreapp3.1\Arrays2.deps.json
+C:\Users\Paulo\source\repos\Arrays2\Arrays2\bin\Debug\netcoreapp3.1\Arrays2.runtimeconfig.json
+C:\Users\Paulo\source\repos\Arrays2\Arrays2\bin\Debug\netcoreapp3.1\Arrays2.runtimeconfig.dev.json
+C:\Users\Paulo\source\repos\Arrays2\Arrays2\bin\Debug\netcoreapp3.1\Arrays2.dll
+C:\Users\Paulo\source\repos\Arrays2\Arrays2\bin\Debug\netcoreapp3.1\Arrays2.pdb
+C:\Users\Paulo\source\repos\Arrays2\Arrays2\obj\Debug\netcoreapp3.1\Arrays2.csprojAssemblyReference.cache
+C:\Users\Paulo\source\repos\Arrays2\Arrays2\obj\Debug\netcoreapp3.1\Arrays2.AssemblyInfoInputs.cache
+C:\Users\Paulo\source\repos\Arrays2\Arrays2\obj\Debug\netcoreapp3.1\Arrays2.AssemblyInfo.cs
+C:\Users\Paulo\source\repos\Arrays2\Arrays2\obj\Debug\netcoreapp3.1\Arrays2.csproj.CoreCompileInputs.cache
+C:\Users\Paulo\source\repos\Arrays2\Arrays2\obj\Debug\netcoreapp3.1\Arrays2.dll
+C:\Users\Paulo\source\repos\Arrays2\Arrays2\obj\Debug\netcoreapp3.1\Arrays2.pdb
+C:\Users\Paulo\source\repos\Arrays2\Arrays2\obj\Debug\netcoreapp3.1\Arrays2.genruntimeconfig.cache

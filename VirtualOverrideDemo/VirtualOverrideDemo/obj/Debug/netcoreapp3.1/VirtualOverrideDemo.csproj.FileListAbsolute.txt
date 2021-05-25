@@ -1,0 +1,12 @@
+C:\Users\Paulo\source\repos\VirtualOverrideDemo\VirtualOverrideDemo\obj\Debug\netcoreapp3.1\VirtualOverrideDemo.AssemblyInfoInputs.cache
+C:\Users\Paulo\source\repos\VirtualOverrideDemo\VirtualOverrideDemo\obj\Debug\netcoreapp3.1\VirtualOverrideDemo.AssemblyInfo.cs
+C:\Users\Paulo\source\repos\VirtualOverrideDemo\VirtualOverrideDemo\obj\Debug\netcoreapp3.1\VirtualOverrideDemo.csproj.CoreCompileInputs.cache
+C:\Users\Paulo\source\repos\VirtualOverrideDemo\VirtualOverrideDemo\bin\Debug\netcoreapp3.1\VirtualOverrideDemo.exe
+C:\Users\Paulo\source\repos\VirtualOverrideDemo\VirtualOverrideDemo\bin\Debug\netcoreapp3.1\VirtualOverrideDemo.deps.json
+C:\Users\Paulo\source\repos\VirtualOverrideDemo\VirtualOverrideDemo\bin\Debug\netcoreapp3.1\VirtualOverrideDemo.runtimeconfig.json
+C:\Users\Paulo\source\repos\VirtualOverrideDemo\VirtualOverrideDemo\bin\Debug\netcoreapp3.1\VirtualOverrideDemo.runtimeconfig.dev.json
+C:\Users\Paulo\source\repos\VirtualOverrideDemo\VirtualOverrideDemo\bin\Debug\netcoreapp3.1\VirtualOverrideDemo.dll
+C:\Users\Paulo\source\repos\VirtualOverrideDemo\VirtualOverrideDemo\bin\Debug\netcoreapp3.1\VirtualOverrideDemo.pdb
+C:\Users\Paulo\source\repos\VirtualOverrideDemo\VirtualOverrideDemo\obj\Debug\netcoreapp3.1\VirtualOverrideDemo.dll
+C:\Users\Paulo\source\repos\VirtualOverrideDemo\VirtualOverrideDemo\obj\Debug\netcoreapp3.1\VirtualOverrideDemo.pdb
+C:\Users\Paulo\source\repos\VirtualOverrideDemo\VirtualOverrideDemo\obj\Debug\netcoreapp3.1\VirtualOverrideDemo.genruntimeconfig.cache

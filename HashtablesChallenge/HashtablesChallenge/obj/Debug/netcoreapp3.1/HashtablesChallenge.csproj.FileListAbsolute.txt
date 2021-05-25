@@ -1,0 +1,13 @@
+C:\Users\Paulo\source\repos\HashtablesChallenge\HashtablesChallenge\obj\Debug\netcoreapp3.1\HashtablesChallenge.csprojAssemblyReference.cache
+C:\Users\Paulo\source\repos\HashtablesChallenge\HashtablesChallenge\obj\Debug\netcoreapp3.1\HashtablesChallenge.AssemblyInfoInputs.cache
+C:\Users\Paulo\source\repos\HashtablesChallenge\HashtablesChallenge\obj\Debug\netcoreapp3.1\HashtablesChallenge.AssemblyInfo.cs
+C:\Users\Paulo\source\repos\HashtablesChallenge\HashtablesChallenge\obj\Debug\netcoreapp3.1\HashtablesChallenge.csproj.CoreCompileInputs.cache
+C:\Users\Paulo\source\repos\HashtablesChallenge\HashtablesChallenge\bin\Debug\netcoreapp3.1\HashtablesChallenge.exe
+C:\Users\Paulo\source\repos\HashtablesChallenge\HashtablesChallenge\bin\Debug\netcoreapp3.1\HashtablesChallenge.deps.json
+C:\Users\Paulo\source\repos\HashtablesChallenge\HashtablesChallenge\bin\Debug\netcoreapp3.1\HashtablesChallenge.runtimeconfig.json
+C:\Users\Paulo\source\repos\HashtablesChallenge\HashtablesChallenge\bin\Debug\netcoreapp3.1\HashtablesChallenge.runtimeconfig.dev.json
+C:\Users\Paulo\source\repos\HashtablesChallenge\HashtablesChallenge\bin\Debug\netcoreapp3.1\HashtablesChallenge.dll
+C:\Users\Paulo\source\repos\HashtablesChallenge\HashtablesChallenge\bin\Debug\netcoreapp3.1\HashtablesChallenge.pdb
+C:\Users\Paulo\source\repos\HashtablesChallenge\HashtablesChallenge\obj\Debug\netcoreapp3.1\HashtablesChallenge.dll
+C:\Users\Paulo\source\repos\HashtablesChallenge\HashtablesChallenge\obj\Debug\netcoreapp3.1\HashtablesChallenge.pdb
+C:\Users\Paulo\source\repos\HashtablesChallenge\HashtablesChallenge\obj\Debug\netcoreapp3.1\HashtablesChallenge.genruntimeconfig.cache
