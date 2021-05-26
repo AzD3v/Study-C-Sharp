@@ -1,0 +1,12 @@
+C:\Users\Paulo\source\repos\ReadFile\ReadFile\bin\Debug\netcoreapp3.1\ReadFile.exe
+C:\Users\Paulo\source\repos\ReadFile\ReadFile\bin\Debug\netcoreapp3.1\ReadFile.deps.json
+C:\Users\Paulo\source\repos\ReadFile\ReadFile\bin\Debug\netcoreapp3.1\ReadFile.runtimeconfig.json
+C:\Users\Paulo\source\repos\ReadFile\ReadFile\bin\Debug\netcoreapp3.1\ReadFile.runtimeconfig.dev.json
+C:\Users\Paulo\source\repos\ReadFile\ReadFile\bin\Debug\netcoreapp3.1\ReadFile.dll
+C:\Users\Paulo\source\repos\ReadFile\ReadFile\bin\Debug\netcoreapp3.1\ReadFile.pdb
+C:\Users\Paulo\source\repos\ReadFile\ReadFile\obj\Debug\netcoreapp3.1\ReadFile.AssemblyInfoInputs.cache
+C:\Users\Paulo\source\repos\ReadFile\ReadFile\obj\Debug\netcoreapp3.1\ReadFile.AssemblyInfo.cs
+C:\Users\Paulo\source\repos\ReadFile\ReadFile\obj\Debug\netcoreapp3.1\ReadFile.csproj.CoreCompileInputs.cache
+C:\Users\Paulo\source\repos\ReadFile\ReadFile\obj\Debug\netcoreapp3.1\ReadFile.dll
+C:\Users\Paulo\source\repos\ReadFile\ReadFile\obj\Debug\netcoreapp3.1\ReadFile.pdb
+C:\Users\Paulo\source\repos\ReadFile\ReadFile\obj\Debug\netcoreapp3.1\ReadFile.genruntimeconfig.cache

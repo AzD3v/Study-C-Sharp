@@ -1,0 +1,12 @@
+C:\Users\Paulo\source\repos\DateTimeT\DateTimeT\bin\Debug\netcoreapp3.1\DateTimeT.exe
+C:\Users\Paulo\source\repos\DateTimeT\DateTimeT\bin\Debug\netcoreapp3.1\DateTimeT.deps.json
+C:\Users\Paulo\source\repos\DateTimeT\DateTimeT\bin\Debug\netcoreapp3.1\DateTimeT.runtimeconfig.json
+C:\Users\Paulo\source\repos\DateTimeT\DateTimeT\bin\Debug\netcoreapp3.1\DateTimeT.runtimeconfig.dev.json
+C:\Users\Paulo\source\repos\DateTimeT\DateTimeT\bin\Debug\netcoreapp3.1\DateTimeT.dll
+C:\Users\Paulo\source\repos\DateTimeT\DateTimeT\bin\Debug\netcoreapp3.1\DateTimeT.pdb
+C:\Users\Paulo\source\repos\DateTimeT\DateTimeT\obj\Debug\netcoreapp3.1\DateTimeT.AssemblyInfoInputs.cache
+C:\Users\Paulo\source\repos\DateTimeT\DateTimeT\obj\Debug\netcoreapp3.1\DateTimeT.AssemblyInfo.cs
+C:\Users\Paulo\source\repos\DateTimeT\DateTimeT\obj\Debug\netcoreapp3.1\DateTimeT.csproj.CoreCompileInputs.cache
+C:\Users\Paulo\source\repos\DateTimeT\DateTimeT\obj\Debug\netcoreapp3.1\DateTimeT.dll
+C:\Users\Paulo\source\repos\DateTimeT\DateTimeT\obj\Debug\netcoreapp3.1\DateTimeT.pdb
+C:\Users\Paulo\source\repos\DateTimeT\DateTimeT\obj\Debug\netcoreapp3.1\DateTimeT.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+C:\Users\Paulo\source\repos\IEnumerableDemo\IEnumerableDemo\bin\Debug\netcoreapp3.1\IEnumerableDemo.exe
+C:\Users\Paulo\source\repos\IEnumerableDemo\IEnumerableDemo\bin\Debug\netcoreapp3.1\IEnumerableDemo.deps.json
+C:\Users\Paulo\source\repos\IEnumerableDemo\IEnumerableDemo\bin\Debug\netcoreapp3.1\IEnumerableDemo.runtimeconfig.json
+C:\Users\Paulo\source\repos\IEnumerableDemo\IEnumerableDemo\bin\Debug\netcoreapp3.1\IEnumerableDemo.runtimeconfig.dev.json
+C:\Users\Paulo\source\repos\IEnumerableDemo\IEnumerableDemo\bin\Debug\netcoreapp3.1\IEnumerableDemo.dll
+C:\Users\Paulo\source\repos\IEnumerableDemo\IEnumerableDemo\bin\Debug\netcoreapp3.1\IEnumerableDemo.pdb
+C:\Users\Paulo\source\repos\IEnumerableDemo\IEnumerableDemo\obj\Debug\netcoreapp3.1\IEnumerableDemo.AssemblyInfoInputs.cache
+C:\Users\Paulo\source\repos\IEnumerableDemo\IEnumerableDemo\obj\Debug\netcoreapp3.1\IEnumerableDemo.AssemblyInfo.cs
+C:\Users\Paulo\source\repos\IEnumerableDemo\IEnumerableDemo\obj\Debug\netcoreapp3.1\IEnumerableDemo.csproj.CoreCompileInputs.cache
+C:\Users\Paulo\source\repos\IEnumerableDemo\IEnumerableDemo\obj\Debug\netcoreapp3.1\IEnumerableDemo.dll
+C:\Users\Paulo\source\repos\IEnumerableDemo\IEnumerableDemo\obj\Debug\netcoreapp3.1\IEnumerableDemo.pdb
+C:\Users\Paulo\source\repos\IEnumerableDemo\IEnumerableDemo\obj\Debug\netcoreapp3.1\IEnumerableDemo.genruntimeconfig.cache

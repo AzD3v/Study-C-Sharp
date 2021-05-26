@@ -1,0 +1,12 @@
+C:\Users\Paulo\source\repos\InterfaceDemo\InterfaceDemo\bin\Debug\netcoreapp3.1\InterfaceDemo.exe
+C:\Users\Paulo\source\repos\InterfaceDemo\InterfaceDemo\bin\Debug\netcoreapp3.1\InterfaceDemo.deps.json
+C:\Users\Paulo\source\repos\InterfaceDemo\InterfaceDemo\bin\Debug\netcoreapp3.1\InterfaceDemo.runtimeconfig.json
+C:\Users\Paulo\source\repos\InterfaceDemo\InterfaceDemo\bin\Debug\netcoreapp3.1\InterfaceDemo.runtimeconfig.dev.json
+C:\Users\Paulo\source\repos\InterfaceDemo\InterfaceDemo\bin\Debug\netcoreapp3.1\InterfaceDemo.dll
+C:\Users\Paulo\source\repos\InterfaceDemo\InterfaceDemo\bin\Debug\netcoreapp3.1\InterfaceDemo.pdb
+C:\Users\Paulo\source\repos\InterfaceDemo\InterfaceDemo\obj\Debug\netcoreapp3.1\InterfaceDemo.AssemblyInfoInputs.cache
+C:\Users\Paulo\source\repos\InterfaceDemo\InterfaceDemo\obj\Debug\netcoreapp3.1\InterfaceDemo.AssemblyInfo.cs
+C:\Users\Paulo\source\repos\InterfaceDemo\InterfaceDemo\obj\Debug\netcoreapp3.1\InterfaceDemo.csproj.CoreCompileInputs.cache
+C:\Users\Paulo\source\repos\InterfaceDemo\InterfaceDemo\obj\Debug\netcoreapp3.1\InterfaceDemo.dll
+C:\Users\Paulo\source\repos\InterfaceDemo\InterfaceDemo\obj\Debug\netcoreapp3.1\InterfaceDemo.pdb
+C:\Users\Paulo\source\repos\InterfaceDemo\InterfaceDemo\obj\Debug\netcoreapp3.1\InterfaceDemo.genruntimeconfig.cache

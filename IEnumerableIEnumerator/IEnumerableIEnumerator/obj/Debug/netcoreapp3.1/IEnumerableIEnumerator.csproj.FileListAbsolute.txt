@@ -1,0 +1,13 @@
+C:\Users\Paulo\source\repos\IEnumerableIEnumerator\IEnumerableIEnumerator\bin\Debug\netcoreapp3.1\IEnumerableIEnumerator.exe
+C:\Users\Paulo\source\repos\IEnumerableIEnumerator\IEnumerableIEnumerator\bin\Debug\netcoreapp3.1\IEnumerableIEnumerator.deps.json
+C:\Users\Paulo\source\repos\IEnumerableIEnumerator\IEnumerableIEnumerator\bin\Debug\netcoreapp3.1\IEnumerableIEnumerator.runtimeconfig.json
+C:\Users\Paulo\source\repos\IEnumerableIEnumerator\IEnumerableIEnumerator\bin\Debug\netcoreapp3.1\IEnumerableIEnumerator.runtimeconfig.dev.json
+C:\Users\Paulo\source\repos\IEnumerableIEnumerator\IEnumerableIEnumerator\bin\Debug\netcoreapp3.1\IEnumerableIEnumerator.dll
+C:\Users\Paulo\source\repos\IEnumerableIEnumerator\IEnumerableIEnumerator\bin\Debug\netcoreapp3.1\IEnumerableIEnumerator.pdb
+C:\Users\Paulo\source\repos\IEnumerableIEnumerator\IEnumerableIEnumerator\obj\Debug\netcoreapp3.1\IEnumerableIEnumerator.csprojAssemblyReference.cache
+C:\Users\Paulo\source\repos\IEnumerableIEnumerator\IEnumerableIEnumerator\obj\Debug\netcoreapp3.1\IEnumerableIEnumerator.AssemblyInfoInputs.cache
+C:\Users\Paulo\source\repos\IEnumerableIEnumerator\IEnumerableIEnumerator\obj\Debug\netcoreapp3.1\IEnumerableIEnumerator.AssemblyInfo.cs
+C:\Users\Paulo\source\repos\IEnumerableIEnumerator\IEnumerableIEnumerator\obj\Debug\netcoreapp3.1\IEnumerableIEnumerator.csproj.CoreCompileInputs.cache
+C:\Users\Paulo\source\repos\IEnumerableIEnumerator\IEnumerableIEnumerator\obj\Debug\netcoreapp3.1\IEnumerableIEnumerator.dll
+C:\Users\Paulo\source\repos\IEnumerableIEnumerator\IEnumerableIEnumerator\obj\Debug\netcoreapp3.1\IEnumerableIEnumerator.pdb
+C:\Users\Paulo\source\repos\IEnumerableIEnumerator\IEnumerableIEnumerator\obj\Debug\netcoreapp3.1\IEnumerableIEnumerator.genruntimeconfig.cache

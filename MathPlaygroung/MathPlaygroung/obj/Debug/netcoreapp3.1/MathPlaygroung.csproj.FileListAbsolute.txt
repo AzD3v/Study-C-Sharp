@@ -1,0 +1,12 @@
+C:\Users\Paulo\source\repos\MathPlaygroung\MathPlaygroung\bin\Debug\netcoreapp3.1\MathPlaygroung.exe
+C:\Users\Paulo\source\repos\MathPlaygroung\MathPlaygroung\bin\Debug\netcoreapp3.1\MathPlaygroung.deps.json
+C:\Users\Paulo\source\repos\MathPlaygroung\MathPlaygroung\bin\Debug\netcoreapp3.1\MathPlaygroung.runtimeconfig.json
+C:\Users\Paulo\source\repos\MathPlaygroung\MathPlaygroung\bin\Debug\netcoreapp3.1\MathPlaygroung.runtimeconfig.dev.json
+C:\Users\Paulo\source\repos\MathPlaygroung\MathPlaygroung\bin\Debug\netcoreapp3.1\MathPlaygroung.dll
+C:\Users\Paulo\source\repos\MathPlaygroung\MathPlaygroung\bin\Debug\netcoreapp3.1\MathPlaygroung.pdb
+C:\Users\Paulo\source\repos\MathPlaygroung\MathPlaygroung\obj\Debug\netcoreapp3.1\MathPlaygroung.AssemblyInfoInputs.cache
+C:\Users\Paulo\source\repos\MathPlaygroung\MathPlaygroung\obj\Debug\netcoreapp3.1\MathPlaygroung.AssemblyInfo.cs
+C:\Users\Paulo\source\repos\MathPlaygroung\MathPlaygroung\obj\Debug\netcoreapp3.1\MathPlaygroung.csproj.CoreCompileInputs.cache
+C:\Users\Paulo\source\repos\MathPlaygroung\MathPlaygroung\obj\Debug\netcoreapp3.1\MathPlaygroung.dll
+C:\Users\Paulo\source\repos\MathPlaygroung\MathPlaygroung\obj\Debug\netcoreapp3.1\MathPlaygroung.pdb
+C:\Users\Paulo\source\repos\MathPlaygroung\MathPlaygroung\obj\Debug\netcoreapp3.1\MathPlaygroung.genruntimeconfig.cache
