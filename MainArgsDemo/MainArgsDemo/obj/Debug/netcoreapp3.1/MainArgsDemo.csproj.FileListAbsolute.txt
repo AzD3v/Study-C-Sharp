@@ -1,0 +1,13 @@
+C:\Users\PauloCunha\source\repos\MainArgsDemo\MainArgsDemo\bin\Debug\netcoreapp3.1\MainArgsDemo.exe
+C:\Users\PauloCunha\source\repos\MainArgsDemo\MainArgsDemo\bin\Debug\netcoreapp3.1\MainArgsDemo.deps.json
+C:\Users\PauloCunha\source\repos\MainArgsDemo\MainArgsDemo\bin\Debug\netcoreapp3.1\MainArgsDemo.runtimeconfig.json
+C:\Users\PauloCunha\source\repos\MainArgsDemo\MainArgsDemo\bin\Debug\netcoreapp3.1\MainArgsDemo.runtimeconfig.dev.json
+C:\Users\PauloCunha\source\repos\MainArgsDemo\MainArgsDemo\bin\Debug\netcoreapp3.1\MainArgsDemo.dll
+C:\Users\PauloCunha\source\repos\MainArgsDemo\MainArgsDemo\bin\Debug\netcoreapp3.1\MainArgsDemo.pdb
+C:\Users\PauloCunha\source\repos\MainArgsDemo\MainArgsDemo\obj\Debug\netcoreapp3.1\MainArgsDemo.csprojAssemblyReference.cache
+C:\Users\PauloCunha\source\repos\MainArgsDemo\MainArgsDemo\obj\Debug\netcoreapp3.1\MainArgsDemo.AssemblyInfoInputs.cache
+C:\Users\PauloCunha\source\repos\MainArgsDemo\MainArgsDemo\obj\Debug\netcoreapp3.1\MainArgsDemo.AssemblyInfo.cs
+C:\Users\PauloCunha\source\repos\MainArgsDemo\MainArgsDemo\obj\Debug\netcoreapp3.1\MainArgsDemo.csproj.CoreCompileInputs.cache
+C:\Users\PauloCunha\source\repos\MainArgsDemo\MainArgsDemo\obj\Debug\netcoreapp3.1\MainArgsDemo.dll
+C:\Users\PauloCunha\source\repos\MainArgsDemo\MainArgsDemo\obj\Debug\netcoreapp3.1\MainArgsDemo.pdb
+C:\Users\PauloCunha\source\repos\MainArgsDemo\MainArgsDemo\obj\Debug\netcoreapp3.1\MainArgsDemo.genruntimeconfig.cache

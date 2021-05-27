@@ -1,0 +1,13 @@
+C:\Users\PauloCunha\source\repos\EventsAndDelegatesProgram\EventsAndDelegatesProgram\bin\Debug\netcoreapp3.1\EventsAndDelegatesProgram.exe
+C:\Users\PauloCunha\source\repos\EventsAndDelegatesProgram\EventsAndDelegatesProgram\bin\Debug\netcoreapp3.1\EventsAndDelegatesProgram.deps.json
+C:\Users\PauloCunha\source\repos\EventsAndDelegatesProgram\EventsAndDelegatesProgram\bin\Debug\netcoreapp3.1\EventsAndDelegatesProgram.runtimeconfig.json
+C:\Users\PauloCunha\source\repos\EventsAndDelegatesProgram\EventsAndDelegatesProgram\bin\Debug\netcoreapp3.1\EventsAndDelegatesProgram.runtimeconfig.dev.json
+C:\Users\PauloCunha\source\repos\EventsAndDelegatesProgram\EventsAndDelegatesProgram\bin\Debug\netcoreapp3.1\EventsAndDelegatesProgram.dll
+C:\Users\PauloCunha\source\repos\EventsAndDelegatesProgram\EventsAndDelegatesProgram\bin\Debug\netcoreapp3.1\EventsAndDelegatesProgram.pdb
+C:\Users\PauloCunha\source\repos\EventsAndDelegatesProgram\EventsAndDelegatesProgram\obj\Debug\netcoreapp3.1\EventsAndDelegatesProgram.csprojAssemblyReference.cache
+C:\Users\PauloCunha\source\repos\EventsAndDelegatesProgram\EventsAndDelegatesProgram\obj\Debug\netcoreapp3.1\EventsAndDelegatesProgram.AssemblyInfoInputs.cache
+C:\Users\PauloCunha\source\repos\EventsAndDelegatesProgram\EventsAndDelegatesProgram\obj\Debug\netcoreapp3.1\EventsAndDelegatesProgram.AssemblyInfo.cs
+C:\Users\PauloCunha\source\repos\EventsAndDelegatesProgram\EventsAndDelegatesProgram\obj\Debug\netcoreapp3.1\EventsAndDelegatesProgram.csproj.CoreCompileInputs.cache
+C:\Users\PauloCunha\source\repos\EventsAndDelegatesProgram\EventsAndDelegatesProgram\obj\Debug\netcoreapp3.1\EventsAndDelegatesProgram.dll
+C:\Users\PauloCunha\source\repos\EventsAndDelegatesProgram\EventsAndDelegatesProgram\obj\Debug\netcoreapp3.1\EventsAndDelegatesProgram.pdb
+C:\Users\PauloCunha\source\repos\EventsAndDelegatesProgram\EventsAndDelegatesProgram\obj\Debug\netcoreapp3.1\EventsAndDelegatesProgram.genruntimeconfig.cache

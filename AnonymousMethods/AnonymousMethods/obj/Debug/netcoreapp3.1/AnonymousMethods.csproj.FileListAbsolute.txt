@@ -1,0 +1,13 @@
+C:\Users\PauloCunha\source\repos\AnonymousMethods\AnonymousMethods\bin\Debug\netcoreapp3.1\AnonymousMethods.exe
+C:\Users\PauloCunha\source\repos\AnonymousMethods\AnonymousMethods\bin\Debug\netcoreapp3.1\AnonymousMethods.deps.json
+C:\Users\PauloCunha\source\repos\AnonymousMethods\AnonymousMethods\bin\Debug\netcoreapp3.1\AnonymousMethods.runtimeconfig.json
+C:\Users\PauloCunha\source\repos\AnonymousMethods\AnonymousMethods\bin\Debug\netcoreapp3.1\AnonymousMethods.runtimeconfig.dev.json
+C:\Users\PauloCunha\source\repos\AnonymousMethods\AnonymousMethods\bin\Debug\netcoreapp3.1\AnonymousMethods.dll
+C:\Users\PauloCunha\source\repos\AnonymousMethods\AnonymousMethods\bin\Debug\netcoreapp3.1\AnonymousMethods.pdb
+C:\Users\PauloCunha\source\repos\AnonymousMethods\AnonymousMethods\obj\Debug\netcoreapp3.1\AnonymousMethods.AssemblyInfoInputs.cache
+C:\Users\PauloCunha\source\repos\AnonymousMethods\AnonymousMethods\obj\Debug\netcoreapp3.1\AnonymousMethods.AssemblyInfo.cs
+C:\Users\PauloCunha\source\repos\AnonymousMethods\AnonymousMethods\obj\Debug\netcoreapp3.1\AnonymousMethods.csproj.CoreCompileInputs.cache
+C:\Users\PauloCunha\source\repos\AnonymousMethods\AnonymousMethods\obj\Debug\netcoreapp3.1\AnonymousMethods.dll
+C:\Users\PauloCunha\source\repos\AnonymousMethods\AnonymousMethods\obj\Debug\netcoreapp3.1\AnonymousMethods.pdb
+C:\Users\PauloCunha\source\repos\AnonymousMethods\AnonymousMethods\obj\Debug\netcoreapp3.1\AnonymousMethods.genruntimeconfig.cache
+C:\Users\PauloCunha\source\repos\AnonymousMethods\AnonymousMethods\obj\Debug\netcoreapp3.1\AnonymousMethods.csprojAssemblyReference.cache

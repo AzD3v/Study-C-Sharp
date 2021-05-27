@@ -1,0 +1,13 @@
+C:\Users\PauloCunha\source\repos\NullablesE\NullablesE\bin\Debug\netcoreapp3.1\NullablesE.exe
+C:\Users\PauloCunha\source\repos\NullablesE\NullablesE\bin\Debug\netcoreapp3.1\NullablesE.deps.json
+C:\Users\PauloCunha\source\repos\NullablesE\NullablesE\bin\Debug\netcoreapp3.1\NullablesE.runtimeconfig.json
+C:\Users\PauloCunha\source\repos\NullablesE\NullablesE\bin\Debug\netcoreapp3.1\NullablesE.runtimeconfig.dev.json
+C:\Users\PauloCunha\source\repos\NullablesE\NullablesE\bin\Debug\netcoreapp3.1\NullablesE.dll
+C:\Users\PauloCunha\source\repos\NullablesE\NullablesE\bin\Debug\netcoreapp3.1\NullablesE.pdb
+C:\Users\PauloCunha\source\repos\NullablesE\NullablesE\obj\Debug\netcoreapp3.1\NullablesE.csprojAssemblyReference.cache
+C:\Users\PauloCunha\source\repos\NullablesE\NullablesE\obj\Debug\netcoreapp3.1\NullablesE.AssemblyInfoInputs.cache
+C:\Users\PauloCunha\source\repos\NullablesE\NullablesE\obj\Debug\netcoreapp3.1\NullablesE.AssemblyInfo.cs
+C:\Users\PauloCunha\source\repos\NullablesE\NullablesE\obj\Debug\netcoreapp3.1\NullablesE.csproj.CoreCompileInputs.cache
+C:\Users\PauloCunha\source\repos\NullablesE\NullablesE\obj\Debug\netcoreapp3.1\NullablesE.dll
+C:\Users\PauloCunha\source\repos\NullablesE\NullablesE\obj\Debug\netcoreapp3.1\NullablesE.pdb
+C:\Users\PauloCunha\source\repos\NullablesE\NullablesE\obj\Debug\netcoreapp3.1\NullablesE.genruntimeconfig.cache

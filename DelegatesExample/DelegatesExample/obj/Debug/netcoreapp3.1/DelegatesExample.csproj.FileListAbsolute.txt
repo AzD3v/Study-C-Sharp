@@ -1,0 +1,13 @@
+C:\Users\PauloCunha\source\repos\DelegatesExample\DelegatesExample\bin\Debug\netcoreapp3.1\DelegatesExample.exe
+C:\Users\PauloCunha\source\repos\DelegatesExample\DelegatesExample\bin\Debug\netcoreapp3.1\DelegatesExample.deps.json
+C:\Users\PauloCunha\source\repos\DelegatesExample\DelegatesExample\bin\Debug\netcoreapp3.1\DelegatesExample.runtimeconfig.json
+C:\Users\PauloCunha\source\repos\DelegatesExample\DelegatesExample\bin\Debug\netcoreapp3.1\DelegatesExample.runtimeconfig.dev.json
+C:\Users\PauloCunha\source\repos\DelegatesExample\DelegatesExample\bin\Debug\netcoreapp3.1\DelegatesExample.dll
+C:\Users\PauloCunha\source\repos\DelegatesExample\DelegatesExample\bin\Debug\netcoreapp3.1\DelegatesExample.pdb
+C:\Users\PauloCunha\source\repos\DelegatesExample\DelegatesExample\obj\Debug\netcoreapp3.1\DelegatesExample.csprojAssemblyReference.cache
+C:\Users\PauloCunha\source\repos\DelegatesExample\DelegatesExample\obj\Debug\netcoreapp3.1\DelegatesExample.AssemblyInfoInputs.cache
+C:\Users\PauloCunha\source\repos\DelegatesExample\DelegatesExample\obj\Debug\netcoreapp3.1\DelegatesExample.AssemblyInfo.cs
+C:\Users\PauloCunha\source\repos\DelegatesExample\DelegatesExample\obj\Debug\netcoreapp3.1\DelegatesExample.csproj.CoreCompileInputs.cache
+C:\Users\PauloCunha\source\repos\DelegatesExample\DelegatesExample\obj\Debug\netcoreapp3.1\DelegatesExample.dll
+C:\Users\PauloCunha\source\repos\DelegatesExample\DelegatesExample\obj\Debug\netcoreapp3.1\DelegatesExample.pdb
+C:\Users\PauloCunha\source\repos\DelegatesExample\DelegatesExample\obj\Debug\netcoreapp3.1\DelegatesExample.genruntimeconfig.cache
