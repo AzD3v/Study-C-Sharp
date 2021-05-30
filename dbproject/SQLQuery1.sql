@@ -1,0 +1,1 @@
+﻿select p.Name from Player p inner join TeamPlayer tp on p.Id = tp.PlayerId where tp.TeamId = 1

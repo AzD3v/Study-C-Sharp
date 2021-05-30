@@ -1,0 +1,15 @@
+C:\Users\Paulo\source\repos\DependencyProperties\DependencyProperties\bin\Debug\DependencyProperties.exe.config
+C:\Users\Paulo\source\repos\DependencyProperties\DependencyProperties\bin\Debug\DependencyProperties.exe
+C:\Users\Paulo\source\repos\DependencyProperties\DependencyProperties\bin\Debug\DependencyProperties.pdb
+C:\Users\Paulo\source\repos\DependencyProperties\DependencyProperties\obj\Debug\MainWindow.g.cs
+C:\Users\Paulo\source\repos\DependencyProperties\DependencyProperties\obj\Debug\App.g.cs
+C:\Users\Paulo\source\repos\DependencyProperties\DependencyProperties\obj\Debug\DependencyProperties_MarkupCompile.cache
+C:\Users\Paulo\source\repos\DependencyProperties\DependencyProperties\obj\Debug\DependencyProperties_MarkupCompile.lref
+C:\Users\Paulo\source\repos\DependencyProperties\DependencyProperties\obj\Debug\MainWindow.baml
+C:\Users\Paulo\source\repos\DependencyProperties\DependencyProperties\obj\Debug\DependencyProperties.g.resources
+C:\Users\Paulo\source\repos\DependencyProperties\DependencyProperties\obj\Debug\DependencyProperties.Properties.Resources.resources
+C:\Users\Paulo\source\repos\DependencyProperties\DependencyProperties\obj\Debug\DependencyProperties.csproj.GenerateResource.cache
+C:\Users\Paulo\source\repos\DependencyProperties\DependencyProperties\obj\Debug\DependencyProperties.csproj.CoreCompileInputs.cache
+C:\Users\Paulo\source\repos\DependencyProperties\DependencyProperties\obj\Debug\DependencyProperties.exe
+C:\Users\Paulo\source\repos\DependencyProperties\DependencyProperties\obj\Debug\DependencyProperties.pdb
+C:\Users\Paulo\source\repos\DependencyProperties\DependencyProperties\obj\Debug\DependencyProperties.csprojAssemblyReference.cache

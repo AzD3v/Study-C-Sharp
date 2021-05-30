@@ -1,0 +1,15 @@
+C:\Users\Paulo\source\repos\NotifyPropertyChanged\NotifyPropertyChanged\bin\Debug\NotifyPropertyChanged.exe.config
+C:\Users\Paulo\source\repos\NotifyPropertyChanged\NotifyPropertyChanged\bin\Debug\NotifyPropertyChanged.exe
+C:\Users\Paulo\source\repos\NotifyPropertyChanged\NotifyPropertyChanged\bin\Debug\NotifyPropertyChanged.pdb
+C:\Users\Paulo\source\repos\NotifyPropertyChanged\NotifyPropertyChanged\obj\Debug\NotifyPropertyChanged.csprojAssemblyReference.cache
+C:\Users\Paulo\source\repos\NotifyPropertyChanged\NotifyPropertyChanged\obj\Debug\MainWindow.g.cs
+C:\Users\Paulo\source\repos\NotifyPropertyChanged\NotifyPropertyChanged\obj\Debug\App.g.cs
+C:\Users\Paulo\source\repos\NotifyPropertyChanged\NotifyPropertyChanged\obj\Debug\NotifyPropertyChanged_MarkupCompile.cache
+C:\Users\Paulo\source\repos\NotifyPropertyChanged\NotifyPropertyChanged\obj\Debug\NotifyPropertyChanged_MarkupCompile.lref
+C:\Users\Paulo\source\repos\NotifyPropertyChanged\NotifyPropertyChanged\obj\Debug\MainWindow.baml
+C:\Users\Paulo\source\repos\NotifyPropertyChanged\NotifyPropertyChanged\obj\Debug\NotifyPropertyChanged.g.resources
+C:\Users\Paulo\source\repos\NotifyPropertyChanged\NotifyPropertyChanged\obj\Debug\NotifyPropertyChanged.Properties.Resources.resources
+C:\Users\Paulo\source\repos\NotifyPropertyChanged\NotifyPropertyChanged\obj\Debug\NotifyPropertyChanged.csproj.GenerateResource.cache
+C:\Users\Paulo\source\repos\NotifyPropertyChanged\NotifyPropertyChanged\obj\Debug\NotifyPropertyChanged.csproj.CoreCompileInputs.cache
+C:\Users\Paulo\source\repos\NotifyPropertyChanged\NotifyPropertyChanged\obj\Debug\NotifyPropertyChanged.exe
+C:\Users\Paulo\source\repos\NotifyPropertyChanged\NotifyPropertyChanged\obj\Debug\NotifyPropertyChanged.pdb

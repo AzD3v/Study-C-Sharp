@@ -1,0 +1,27 @@
+﻿<Window x:Class="dbproject.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:dbproject"
+        mc:Ignorable="d"
+        Title="Teams Manager" Height="408" Width="600 ">
+    <Grid>
+        <Label Content="Teams List" HorizontalAlignment="Left" Margin="23,10,0,0" VerticalAlignment="Top" Width="143"/>
+        <ListBox SelectionChanged="listTeams_SelectionChanged" Name="listTeams" HorizontalAlignment="Left" Height="156" Margin="23,41,0,0" VerticalAlignment="Top" Width="129"/>
+        <Label Content="Team's Players List" HorizontalAlignment="Left" Margin="202,10,0,0" VerticalAlignment="Top" Width="142"/>
+        <ListBox Name="listAssociatedPlayers" HorizontalAlignment="Left" Height="156" Margin="202,41,0,0" VerticalAlignment="Top" Width="128"/>
+        <Button Width="150" Height="25" Content="Add Player to Team" Margin="383,11,184,433" />
+        <ListBox Name="listPlayers" HorizontalAlignment="Left" Height="272" Margin="383,41,0,0" VerticalAlignment="Top" Width="150"/>
+        <Button Content="Delete team" HorizontalAlignment="Left" Margin="23,212,0,0" VerticalAlignment="Top" Width="129" Click="DeleteTeam_Click"/>
+        <Button Content="Remove player" HorizontalAlignment="Left" Margin="201,212,0,0" VerticalAlignment="Top" Width="129" Click="DeleteTeamPlayer_Click"/>
+        <Button Click="AddTeam_Click" Content="Add team" HorizontalAlignment="Left" Margin="23,284,0,0" VerticalAlignment="Top" Width="129"/>
+        <Button Click="AddPlayer_Click" Content="Add player" HorizontalAlignment="Left" Margin="202,284,0,0" VerticalAlignment="Top" Width="129"/>
+        <Button Content="Update team" HorizontalAlignment="Left" Margin="201,309,0,0" VerticalAlignment="Top" Width="129"/>
+        <Button Content="Update team" HorizontalAlignment="Left" Margin="23,309,0,0" VerticalAlignment="Top" Width="129"/>
+        <Button Click="DeletePlayer_Click" Content="Delete player" HorizontalAlignment="Left" Margin="383,318,0,0" VerticalAlignment="Top" Width="149" RenderTransformOrigin="0.5,0.5"></Button>
+        <Button Click="AddPlayerToTeam_Click" Content="Add player to team" HorizontalAlignment="Left" Margin="383,12,0,0" VerticalAlignment="Top" Width="149" RenderTransformOrigin="0.5,0.5"></Button>
+        <TextBox Name="myTextBox" HorizontalAlignment="Left" Height="23" Margin="23,247,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="307" RenderTransformOrigin="-0.542,1.174"/>
+    </Grid>
+</Window>
+ 

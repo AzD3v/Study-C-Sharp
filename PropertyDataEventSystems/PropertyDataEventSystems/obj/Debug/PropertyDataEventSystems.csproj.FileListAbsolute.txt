@@ -1,0 +1,14 @@
+C:\Users\Paulo\source\repos\PropertyDataEventSystems\PropertyDataEventSystems\obj\Debug\App.g.cs
+C:\Users\Paulo\source\repos\PropertyDataEventSystems\PropertyDataEventSystems\obj\Debug\PropertyDataEventSystems_MarkupCompile.cache
+C:\Users\Paulo\source\repos\PropertyDataEventSystems\PropertyDataEventSystems\bin\Debug\PropertyDataEventSystems.exe.config
+C:\Users\Paulo\source\repos\PropertyDataEventSystems\PropertyDataEventSystems\bin\Debug\PropertyDataEventSystems.exe
+C:\Users\Paulo\source\repos\PropertyDataEventSystems\PropertyDataEventSystems\bin\Debug\PropertyDataEventSystems.pdb
+C:\Users\Paulo\source\repos\PropertyDataEventSystems\PropertyDataEventSystems\obj\Debug\MainWindow.g.cs
+C:\Users\Paulo\source\repos\PropertyDataEventSystems\PropertyDataEventSystems\obj\Debug\PropertyDataEventSystems_MarkupCompile.lref
+C:\Users\Paulo\source\repos\PropertyDataEventSystems\PropertyDataEventSystems\obj\Debug\MainWindow.baml
+C:\Users\Paulo\source\repos\PropertyDataEventSystems\PropertyDataEventSystems\obj\Debug\PropertyDataEventSystems.g.resources
+C:\Users\Paulo\source\repos\PropertyDataEventSystems\PropertyDataEventSystems\obj\Debug\PropertyDataEventSystems.Properties.Resources.resources
+C:\Users\Paulo\source\repos\PropertyDataEventSystems\PropertyDataEventSystems\obj\Debug\PropertyDataEventSystems.csproj.GenerateResource.cache
+C:\Users\Paulo\source\repos\PropertyDataEventSystems\PropertyDataEventSystems\obj\Debug\PropertyDataEventSystems.csproj.CoreCompileInputs.cache
+C:\Users\Paulo\source\repos\PropertyDataEventSystems\PropertyDataEventSystems\obj\Debug\PropertyDataEventSystems.exe
+C:\Users\Paulo\source\repos\PropertyDataEventSystems\PropertyDataEventSystems\obj\Debug\PropertyDataEventSystems.pdb
