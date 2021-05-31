@@ -29,7 +29,7 @@ namespace dbproject
         {
             InitializeComponent();
 
-            string connectionString = ConfigurationManager.ConnectionStrings["dbproject.Properties.Settings.mydbDataSet"].ConnectionString;
+            string connectionString = ConfigurationManager.ConnectionStrings["dbproject.Properties.Settings.MyWorkingDBConnectionString"].ConnectionString;
             sqlConnection = new SqlConnection(connectionString);
 
             ShowTeams();
@@ -58,11 +58,12 @@ namespace dbproject
                     // The Reference to the Data the ListBox should populate
                     listTeams.ItemsSource = teamTable.DefaultView;
                 }
-            } catch (Exception e)
+            }
+            catch (Exception e)
             {
                 MessageBox.Show(e.ToString());
             }
-            
+
         }
 
         private void ShowAssociatedPlayers()
@@ -142,7 +143,7 @@ namespace dbproject
             catch (Exception exc)
             {
                 // MessageBox.Show(exc.ToString());
-            }   
+            }
             finally
             {
                 sqlConnection.Close();
@@ -168,6 +169,62 @@ namespace dbproject
             {
                 sqlConnection.Close();
                 ShowTeams();
+            }
+        }
+
+        private void ShowSelectedTeamInTextBox()
+        {
+            try
+            {
+                string query = "select name from Team where id = @TeamId";
+
+                // Use sql command to pass extra data - TeamId
+                SqlCommand sqlCommand = new SqlCommand(query, sqlConnection);
+
+                // The SqlDataAdapter can be imagined like an Interface to make Tables usable by C# - objects
+                SqlDataAdapter sqlDataAdapter = new SqlDataAdapter(sqlCommand);
+
+                using (sqlDataAdapter)
+                {
+                    sqlCommand.Parameters.AddWithValue("@TeamId", listTeams.SelectedValue);
+
+                    DataTable teamDataTable = new DataTable();
+                    sqlDataAdapter.Fill(teamDataTable);
+
+                    myTextBox.Text = teamDataTable.Rows[0]["Name"].ToString();
+                }
+            }
+            catch (Exception e)
+            {
+                // MessageBox.Show(e.ToString());
+            }
+        }
+
+        private void ShowSelectedPlayerInTextBox()
+        {
+            try
+            {
+                string query = "select name from Player where id = @PlayerId";
+
+                // Use sql command to pass extra data - TeamId
+                SqlCommand sqlCommand = new SqlCommand(query, sqlConnection);
+
+                // The SqlDataAdapter can be imagined like an Interface to make Tables usable by C# - objects
+                SqlDataAdapter sqlDataAdapter = new SqlDataAdapter(sqlCommand);
+
+                using (sqlDataAdapter)
+                {
+                    sqlCommand.Parameters.AddWithValue("@PlayerId", listPlayers.SelectedValue);
+
+                    DataTable playerDataTable = new DataTable();
+                    sqlDataAdapter.Fill(playerDataTable);
+
+                    myTextBox.Text = playerDataTable.Rows[0]["Name"].ToString();
+                }
+            }
+            catch (Exception e)
+            {
+                // MessageBox.Show(e.ToString());
             }
         }
 
@@ -258,6 +315,12 @@ namespace dbproject
         private void listTeams_SelectionChanged(object sender, SelectionChangedEventArgs e)
         {
             ShowAssociatedPlayers();
+            ShowSelectedTeamInTextBox();
+        }
+
+        private void listPlayers_SelectionChanged(object sender, SelectionChangedEventArgs e)
+        {
+            ShowSelectedPlayerInTextBox();
         }
     }
 }

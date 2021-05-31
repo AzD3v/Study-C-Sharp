@@ -12,7 +12,7 @@
         <Label Content="Team's Players List" HorizontalAlignment="Left" Margin="202,10,0,0" VerticalAlignment="Top" Width="142"/>
         <ListBox Name="listAssociatedPlayers" HorizontalAlignment="Left" Height="156" Margin="202,41,0,0" VerticalAlignment="Top" Width="128"/>
         <Button Width="150" Height="25" Content="Add Player to Team" Margin="383,11,184,433" />
-        <ListBox Name="listPlayers" HorizontalAlignment="Left" Height="272" Margin="383,41,0,0" VerticalAlignment="Top" Width="150"/>
+        <ListBox SelectionChanged="listPlayers_SelectionChanged" Name="listPlayers" HorizontalAlignment="Left" Height="272" Margin="383,41,0,0" VerticalAlignment="Top" Width="150"/>
         <Button Content="Delete team" HorizontalAlignment="Left" Margin="23,212,0,0" VerticalAlignment="Top" Width="129" Click="DeleteTeam_Click"/>
         <Button Content="Remove player" HorizontalAlignment="Left" Margin="201,212,0,0" VerticalAlignment="Top" Width="129" Click="DeleteTeamPlayer_Click"/>
         <Button Click="AddTeam_Click" Content="Add team" HorizontalAlignment="Left" Margin="23,284,0,0" VerticalAlignment="Top" Width="129"/>

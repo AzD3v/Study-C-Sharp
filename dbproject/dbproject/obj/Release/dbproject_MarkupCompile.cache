@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Users\PauloCunha\Desktop\examples-c-sharp\dbproject\dbproject\obj\Debug\
+C:\Users\PauloCunha\Desktop\examples-c-sharp\dbproject\dbproject\obj\Release\
 dbproject
 none
 false
-DEBUG;TRACE
+TRACE
 C:\Users\PauloCunha\Desktop\examples-c-sharp\dbproject\dbproject\App.xaml
 11151548125
 
-81432817088
+762604011
 141066371409
 MainWindow.xaml;
 
-False
+True
 
