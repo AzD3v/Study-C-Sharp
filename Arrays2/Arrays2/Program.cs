@@ -6,6 +6,8 @@ namespace Arrays2
     {
         static void Main(string[] args)
         {
+            int[] array = { 1, 2, 3, 4, };
+
             // Declare jagged array 
             int[][] jaggedArr = new int[3][];
 

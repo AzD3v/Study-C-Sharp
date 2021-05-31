@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Paulo\\source\\repos\\Hashtables\\Hashtables\\Hashtables.csproj": {}
+    "C:\\Users\\PauloCunha\\Desktop\\examples-c-sharp\\Hashtables\\Hashtables\\Hashtables.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Paulo\\source\\repos\\Hashtables\\Hashtables\\Hashtables.csproj": {
+    "C:\\Users\\PauloCunha\\Desktop\\examples-c-sharp\\Hashtables\\Hashtables\\Hashtables.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Paulo\\source\\repos\\Hashtables\\Hashtables\\Hashtables.csproj",
+        "projectUniqueName": "C:\\Users\\PauloCunha\\Desktop\\examples-c-sharp\\Hashtables\\Hashtables\\Hashtables.csproj",
         "projectName": "Hashtables",
-        "projectPath": "C:\\Users\\Paulo\\source\\repos\\Hashtables\\Hashtables\\Hashtables.csproj",
-        "packagesPath": "C:\\Users\\Paulo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Paulo\\source\\repos\\Hashtables\\Hashtables\\obj\\",
+        "projectPath": "C:\\Users\\PauloCunha\\Desktop\\examples-c-sharp\\Hashtables\\Hashtables\\Hashtables.csproj",
+        "packagesPath": "C:\\Users\\PauloCunha\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\PauloCunha\\Desktop\\examples-c-sharp\\Hashtables\\Hashtables\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Paulo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\PauloCunha\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -54,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.300\\RuntimeIdentifierGraph.json"
         }
       }
     }

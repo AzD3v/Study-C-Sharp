@@ -3,10 +3,46 @@ using System.Collections;
 
 namespace Hashtables
 {
+    internal class Person
+    {
+        static Person current;
+
+        private Person()
+        {
+
+        }
+        public static Person Current { 
+            get {
+                if (current == null)
+                {
+                    current = new Person();
+                }
+
+                return current;
+            }
+        }
+
+    }
+
     class Program
     {
         static void Main(string[] args)
-        {
+        {       
+            object text = null;
+            int a = 1;
+            int b = a;
+
+            b = 3;
+
+            Person.Current.;
+
+
+            if (text is string a)
+            {
+                int.Parse(a)
+            }
+
+
             Hashtable studentsTable = new Hashtable();
 
             Student stud1 = new Student(1, "Paulo", 50);
@@ -20,7 +56,7 @@ namespace Hashtables
             studentsTable.Add(stud4.Id, stud4);
             studentsTable.Add(stud4.Id, stud4);
 
-            // retrieve individual item with know ID
+            // retrieve individual item with known ID
             Student storedStudent1 = (Student)studentsTable[stud1.Id];
 
             // retrieve all values from a hashtable

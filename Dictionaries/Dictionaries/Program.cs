@@ -22,7 +22,7 @@ namespace Dictionaries
                 { 3, "three" }
             };
 
-            Dictionary<string, string> employeesDirectory = new Dictionary<int, string>();
+            Dictionary<int, string> employeesDirectory = new Dictionary<int, string>();
         }
     }
 
