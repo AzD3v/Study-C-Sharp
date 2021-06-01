@@ -1,0 +1,13 @@
+C:\Users\PauloCunha\source\repos\LinkWithXML\LinkWithXML\bin\Debug\netcoreapp3.1\LinkWithXML.exe
+C:\Users\PauloCunha\source\repos\LinkWithXML\LinkWithXML\bin\Debug\netcoreapp3.1\LinkWithXML.deps.json
+C:\Users\PauloCunha\source\repos\LinkWithXML\LinkWithXML\bin\Debug\netcoreapp3.1\LinkWithXML.runtimeconfig.json
+C:\Users\PauloCunha\source\repos\LinkWithXML\LinkWithXML\bin\Debug\netcoreapp3.1\LinkWithXML.runtimeconfig.dev.json
+C:\Users\PauloCunha\source\repos\LinkWithXML\LinkWithXML\bin\Debug\netcoreapp3.1\LinkWithXML.dll
+C:\Users\PauloCunha\source\repos\LinkWithXML\LinkWithXML\bin\Debug\netcoreapp3.1\LinkWithXML.pdb
+C:\Users\PauloCunha\source\repos\LinkWithXML\LinkWithXML\obj\Debug\netcoreapp3.1\LinkWithXML.csproj.AssemblyReference.cache
+C:\Users\PauloCunha\source\repos\LinkWithXML\LinkWithXML\obj\Debug\netcoreapp3.1\LinkWithXML.AssemblyInfoInputs.cache
+C:\Users\PauloCunha\source\repos\LinkWithXML\LinkWithXML\obj\Debug\netcoreapp3.1\LinkWithXML.AssemblyInfo.cs
+C:\Users\PauloCunha\source\repos\LinkWithXML\LinkWithXML\obj\Debug\netcoreapp3.1\LinkWithXML.csproj.CoreCompileInputs.cache
+C:\Users\PauloCunha\source\repos\LinkWithXML\LinkWithXML\obj\Debug\netcoreapp3.1\LinkWithXML.dll
+C:\Users\PauloCunha\source\repos\LinkWithXML\LinkWithXML\obj\Debug\netcoreapp3.1\LinkWithXML.pdb
+C:\Users\PauloCunha\source\repos\LinkWithXML\LinkWithXML\obj\Debug\netcoreapp3.1\LinkWithXML.genruntimeconfig.cache

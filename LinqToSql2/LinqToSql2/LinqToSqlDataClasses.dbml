@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="MyWorkingDB" Class="LinqToSqlDataClassesDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=AZD3V-WORK;Initial Catalog=MyWorkingDB;User ID=sa" SettingsObjectName="LinqToSql2.Properties.Settings" SettingsPropertyName="MyWorkingDBConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.Library" Member="Libraries">
+    <Type Name="Library">
+      <Column Name="Id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="Name" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Association Name="Library_Reader" Member="Readers" ThisKey="Id" OtherKey="LibraryId" Type="Reader" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Reader" Member="Readers">
+    <Type Name="Reader">
+      <Column Name="Id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="Name" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="Gender" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="LibraryId" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Association Name="Reader_ReaderReadingSession" Member="ReaderReadingSessions" ThisKey="Id" OtherKey="ReaderId" Type="ReaderReadingSession" />
+      <Association Name="Library_Reader" Member="Library" ThisKey="LibraryId" OtherKey="Id" Type="Library" IsForeignKey="true" DeleteRule="CASCADE" DeleteOnNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.ReadingSession" Member="ReadingSessions">
+    <Type Name="ReadingSession">
+      <Column Name="Id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="Name" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Association Name="ReadingSession_ReaderReadingSession" Member="ReaderReadingSessions" ThisKey="Id" OtherKey="ReadingSessionId" Type="ReaderReadingSession" />
+    </Type>
+  </Table>
+  <Table Name="dbo.ReaderReadingSession" Member="ReaderReadingSessions">
+    <Type Name="ReaderReadingSession">
+      <Column Name="Id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="ReaderId" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="ReadingSessionId" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Association Name="Reader_ReaderReadingSession" Member="Reader" ThisKey="ReaderId" OtherKey="Id" Type="Reader" IsForeignKey="true" DeleteRule="CASCADE" DeleteOnNull="true" />
+      <Association Name="ReadingSession_ReaderReadingSession" Member="ReadingSession" ThisKey="ReadingSessionId" OtherKey="Id" Type="ReadingSession" IsForeignKey="true" DeleteRule="CASCADE" DeleteOnNull="true" />
+    </Type>
+  </Table>
+</Database>

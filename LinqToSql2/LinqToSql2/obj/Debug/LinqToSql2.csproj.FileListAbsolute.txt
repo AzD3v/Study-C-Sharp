@@ -1,0 +1,15 @@
+C:\Users\PauloCunha\source\repos\LinqToSql2\LinqToSql2\bin\Debug\LinqToSql2.exe.config
+C:\Users\PauloCunha\source\repos\LinqToSql2\LinqToSql2\bin\Debug\LinqToSql2.exe
+C:\Users\PauloCunha\source\repos\LinqToSql2\LinqToSql2\bin\Debug\LinqToSql2.pdb
+C:\Users\PauloCunha\source\repos\LinqToSql2\LinqToSql2\obj\Debug\LinqToSql2.csproj.AssemblyReference.cache
+C:\Users\PauloCunha\source\repos\LinqToSql2\LinqToSql2\obj\Debug\MainWindow.g.cs
+C:\Users\PauloCunha\source\repos\LinqToSql2\LinqToSql2\obj\Debug\App.g.cs
+C:\Users\PauloCunha\source\repos\LinqToSql2\LinqToSql2\obj\Debug\LinqToSql2_MarkupCompile.cache
+C:\Users\PauloCunha\source\repos\LinqToSql2\LinqToSql2\obj\Debug\LinqToSql2_MarkupCompile.lref
+C:\Users\PauloCunha\source\repos\LinqToSql2\LinqToSql2\obj\Debug\MainWindow.baml
+C:\Users\PauloCunha\source\repos\LinqToSql2\LinqToSql2\obj\Debug\LinqToSql2.g.resources
+C:\Users\PauloCunha\source\repos\LinqToSql2\LinqToSql2\obj\Debug\LinqToSql2.Properties.Resources.resources
+C:\Users\PauloCunha\source\repos\LinqToSql2\LinqToSql2\obj\Debug\LinqToSql2.csproj.GenerateResource.cache
+C:\Users\PauloCunha\source\repos\LinqToSql2\LinqToSql2\obj\Debug\LinqToSql2.csproj.CoreCompileInputs.cache
+C:\Users\PauloCunha\source\repos\LinqToSql2\LinqToSql2\obj\Debug\LinqToSql2.exe
+C:\Users\PauloCunha\source\repos\LinqToSql2\LinqToSql2\obj\Debug\LinqToSql2.pdb
