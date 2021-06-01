@@ -1,0 +1,13 @@
+C:\Users\Paulo\source\repos\ThreadingLesson1\ThreadingLesson1\bin\Debug\netcoreapp3.1\ThreadingLesson1.exe
+C:\Users\Paulo\source\repos\ThreadingLesson1\ThreadingLesson1\bin\Debug\netcoreapp3.1\ThreadingLesson1.deps.json
+C:\Users\Paulo\source\repos\ThreadingLesson1\ThreadingLesson1\bin\Debug\netcoreapp3.1\ThreadingLesson1.runtimeconfig.json
+C:\Users\Paulo\source\repos\ThreadingLesson1\ThreadingLesson1\bin\Debug\netcoreapp3.1\ThreadingLesson1.runtimeconfig.dev.json
+C:\Users\Paulo\source\repos\ThreadingLesson1\ThreadingLesson1\bin\Debug\netcoreapp3.1\ThreadingLesson1.dll
+C:\Users\Paulo\source\repos\ThreadingLesson1\ThreadingLesson1\bin\Debug\netcoreapp3.1\ThreadingLesson1.pdb
+C:\Users\Paulo\source\repos\ThreadingLesson1\ThreadingLesson1\obj\Debug\netcoreapp3.1\ThreadingLesson1.csprojAssemblyReference.cache
+C:\Users\Paulo\source\repos\ThreadingLesson1\ThreadingLesson1\obj\Debug\netcoreapp3.1\ThreadingLesson1.AssemblyInfoInputs.cache
+C:\Users\Paulo\source\repos\ThreadingLesson1\ThreadingLesson1\obj\Debug\netcoreapp3.1\ThreadingLesson1.AssemblyInfo.cs
+C:\Users\Paulo\source\repos\ThreadingLesson1\ThreadingLesson1\obj\Debug\netcoreapp3.1\ThreadingLesson1.csproj.CoreCompileInputs.cache
+C:\Users\Paulo\source\repos\ThreadingLesson1\ThreadingLesson1\obj\Debug\netcoreapp3.1\ThreadingLesson1.dll
+C:\Users\Paulo\source\repos\ThreadingLesson1\ThreadingLesson1\obj\Debug\netcoreapp3.1\ThreadingLesson1.pdb
+C:\Users\Paulo\source\repos\ThreadingLesson1\ThreadingLesson1\obj\Debug\netcoreapp3.1\ThreadingLesson1.genruntimeconfig.cache

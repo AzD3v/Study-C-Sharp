@@ -1,0 +1,12 @@
+C:\Users\Paulo\source\repos\ThreadJoiningAndIsAlivw\ThreadJoiningAndIsAlivw\bin\Debug\netcoreapp3.1\ThreadJoiningAndIsAlivw.exe
+C:\Users\Paulo\source\repos\ThreadJoiningAndIsAlivw\ThreadJoiningAndIsAlivw\bin\Debug\netcoreapp3.1\ThreadJoiningAndIsAlivw.deps.json
+C:\Users\Paulo\source\repos\ThreadJoiningAndIsAlivw\ThreadJoiningAndIsAlivw\bin\Debug\netcoreapp3.1\ThreadJoiningAndIsAlivw.runtimeconfig.json
+C:\Users\Paulo\source\repos\ThreadJoiningAndIsAlivw\ThreadJoiningAndIsAlivw\bin\Debug\netcoreapp3.1\ThreadJoiningAndIsAlivw.runtimeconfig.dev.json
+C:\Users\Paulo\source\repos\ThreadJoiningAndIsAlivw\ThreadJoiningAndIsAlivw\bin\Debug\netcoreapp3.1\ThreadJoiningAndIsAlivw.dll
+C:\Users\Paulo\source\repos\ThreadJoiningAndIsAlivw\ThreadJoiningAndIsAlivw\bin\Debug\netcoreapp3.1\ThreadJoiningAndIsAlivw.pdb
+C:\Users\Paulo\source\repos\ThreadJoiningAndIsAlivw\ThreadJoiningAndIsAlivw\obj\Debug\netcoreapp3.1\ThreadJoiningAndIsAlivw.AssemblyInfoInputs.cache
+C:\Users\Paulo\source\repos\ThreadJoiningAndIsAlivw\ThreadJoiningAndIsAlivw\obj\Debug\netcoreapp3.1\ThreadJoiningAndIsAlivw.AssemblyInfo.cs
+C:\Users\Paulo\source\repos\ThreadJoiningAndIsAlivw\ThreadJoiningAndIsAlivw\obj\Debug\netcoreapp3.1\ThreadJoiningAndIsAlivw.csproj.CoreCompileInputs.cache
+C:\Users\Paulo\source\repos\ThreadJoiningAndIsAlivw\ThreadJoiningAndIsAlivw\obj\Debug\netcoreapp3.1\ThreadJoiningAndIsAlivw.dll
+C:\Users\Paulo\source\repos\ThreadJoiningAndIsAlivw\ThreadJoiningAndIsAlivw\obj\Debug\netcoreapp3.1\ThreadJoiningAndIsAlivw.pdb
+C:\Users\Paulo\source\repos\ThreadJoiningAndIsAlivw\ThreadJoiningAndIsAlivw\obj\Debug\netcoreapp3.1\ThreadJoiningAndIsAlivw.genruntimeconfig.cache
