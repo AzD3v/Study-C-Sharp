@@ -29,8 +29,7 @@ namespace LinqToSql2
 
             string connectionString = ConfigurationManager.ConnectionStrings["LinqToSql2.Properties.Settings.MyWorkingDBConnectionString"].ConnectionString;
             dataContext = new LinqToSqlDataClassesDataContext(connectionString);
-
-            GetLibraryOfHenrique();
+            DeleteHenrique();
         }
 
         public void InsertLibraries()
@@ -112,6 +111,7 @@ namespace LinqToSql2
             dataContext.ReaderReadingSessions.InsertOnSubmit(rsHenrique);
 
             dataContext.SubmitChanges();
+
             MainDataGrid.ItemsSource = dataContext.ReaderReadingSessions;
         }
 
@@ -122,6 +122,11 @@ namespace LinqToSql2
 
             List<Library> libraries = new List<Library>();
             libraries.Add(HenriquesLibrary);
+        }
+
+        public void GetReadingSessionsFromHenrique()
+        {
+            Reader Henrique = dataContext.Readers.First(rd => rd.Name == "Henrique");
 
             // My solution to get all reading sessions from Henrique
             /*IEnumerable<ReadingSession> HenriquesReadingSessions = from readingSession in dataContext.ReadingSessions
@@ -131,14 +136,69 @@ namespace LinqToSql2
                                                       select readingSession;*/
 
             // Instructor solution to get all reading sessions from Henrique
-            var henriqueLectures = from readingSession in Henrique.ReaderReadingSessions select readingSession.ReadingSession;
+            var henriquerReadingSessions = from readingSession in Henrique.ReaderReadingSessions select readingSession.ReadingSession;
 
-            MainDataGrid.ItemsSource = henriqueLectures;
+            MainDataGrid.ItemsSource = henriquerReadingSessions;
         }
 
         public void GetAllReadersFromLibraryMunicipal()
         {
+            // My soltution
+            /*Library LibraryMunicipal = dataContext.Libraries.First(lb => lb.Name.Contains("Municipal"));
+            var libraryMunicipalReaders = from readers in LibraryMunicipal.Readers select readers;*/
+
+            // Instructor's solution
+            var libraryMunicipalReaders = from reader in dataContext.Readers
+                                          where reader.Library.Name == "Biblioteca Municipal"
+                                          select reader;
             
+            MainDataGrid.ItemsSource = libraryMunicipalReaders;
+        }
+
+        public void GetAllLibrariesWithMales()
+        {
+            var malesLibraries = from reader in dataContext.Readers
+                                 join library in dataContext.Libraries
+                                 on reader.Library equals library
+                                 where reader.Gender == "male"
+                                 select library;
+
+            MainDataGrid.ItemsSource = malesLibraries;
+        }
+
+        public void GetCunhaLibraryReadingSessions()
+        {
+            // My solution
+            /*var cunhaLibraryReadingSessions = from reader in dataContext.Readers
+                                 join library in dataContext.Libraries
+                                 on reader.Library equals library
+                                 where library.Name == "Biblioteca Municipal"
+                                 from readingSession in reader.ReaderReadingSessions
+                                 select readingSession.ReadingSession;*/
+
+            // Instructor's solution
+            var cunhaLibraryReadingSessions = from readingSession in dataContext.ReaderReadingSessions
+                                              join reader in dataContext.Readers
+                                              on readingSession.ReaderId equals reader.Id
+                                              where reader.Library.Name == "Biblioteca Cunha"
+                                              select readingSession.ReadingSession;
+
+            MainDataGrid.ItemsSource = cunhaLibraryReadingSessions;
+        }
+
+        public void UpdatePaulo()
+        {
+            Reader Paulo = dataContext.Readers.FirstOrDefault(rd => rd.Name == "Paulo");
+            Paulo.Name = "Paulão";
+            dataContext.SubmitChanges();
+            MainDataGrid.ItemsSource = dataContext.Readers;
+        }
+
+        public void DeleteHenrique()
+        {
+            Reader Henrique = dataContext.Readers.FirstOrDefault(rd => rd.Name == "Henrique");
+            dataContext.Readers.DeleteOnSubmit(Henrique);
+            dataContext.SubmitChanges();
         }
     }
 }

@@ -8,23 +8,23 @@
         <elementListCompartment Id="37dea4ef-ffa2-4cda-b4fd-7517e6edd63c" absoluteBounds="3.7649999999999997, 2.46, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
       </nestedChildShapes>
     </classShape>
-    <classShape Id="af1405bb-15a0-44df-81a0-f5ab15023232" absoluteBounds="7.625, 2.125, 2, 1.5785953776041666">
+    <classShape Id="af1405bb-15a0-44df-81a0-f5ab15023232" absoluteBounds="7.125, 2.125, 2, 1.5785953776041666">
       <DataClassMoniker Name="/LinqToSqlDataClassesDataContext/Reader" />
       <nestedChildShapes>
-        <elementListCompartment Id="331cda25-66c5-4a1a-9c63-01fbdf3dd3b0" absoluteBounds="7.64, 2.585, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+        <elementListCompartment Id="331cda25-66c5-4a1a-9c63-01fbdf3dd3b0" absoluteBounds="7.14, 2.585, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
       </nestedChildShapes>
     </classShape>
-    <associationConnector edgePoints="[(5.75 : 2.65949625651042); (7.625 : 2.65949625651042)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+    <associationConnector edgePoints="[(5.75 : 2.65949625651042); (7.125 : 2.65949625651042)]" fixedFrom="Algorithm" fixedTo="Algorithm">
       <AssociationMoniker Name="/LinqToSqlDataClassesDataContext/Library/Library_Reader" />
       <nodes>
         <classShapeMoniker Id="1ebf547e-d03f-4618-8a61-f1a671a49368" />
         <classShapeMoniker Id="af1405bb-15a0-44df-81a0-f5ab15023232" />
       </nodes>
     </associationConnector>
-    <classShape Id="c2fae212-03bd-4802-9fba-3984c49dc1a0" absoluteBounds="3.375, 4.5, 2, 1.1939925130208333">
+    <classShape Id="c2fae212-03bd-4802-9fba-3984c49dc1a0" absoluteBounds="3.625, 4.625, 2, 1.1939925130208333">
       <DataClassMoniker Name="/LinqToSqlDataClassesDataContext/ReadingSession" />
       <nestedChildShapes>
-        <elementListCompartment Id="f5146e67-0832-45dd-8b09-94a9cc9b1952" absoluteBounds="3.3899999999999997, 4.96, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+        <elementListCompartment Id="f5146e67-0832-45dd-8b09-94a9cc9b1952" absoluteBounds="3.6399999999999997, 5.085, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
       </nestedChildShapes>
     </classShape>
     <classShape Id="c84afcf2-6773-4479-8fa0-8097689113f3" absoluteBounds="7.125, 4.5, 2, 1.3862939453125">
@@ -33,14 +33,14 @@
         <elementListCompartment Id="d5a469b5-9008-4d0d-977f-e49a6a1ed1b2" absoluteBounds="7.1400000000000006, 4.96, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
       </nestedChildShapes>
     </classShape>
-    <associationConnector edgePoints="[(8.375 : 3.70359537760417); (8.375 : 4.5)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+    <associationConnector edgePoints="[(8.125 : 3.70359537760417); (8.125 : 4.5)]" fixedFrom="Algorithm" fixedTo="Algorithm">
       <AssociationMoniker Name="/LinqToSqlDataClassesDataContext/Reader/Reader_ReaderReadingSession" />
       <nodes>
         <classShapeMoniker Id="af1405bb-15a0-44df-81a0-f5ab15023232" />
         <classShapeMoniker Id="c84afcf2-6773-4479-8fa0-8097689113f3" />
       </nodes>
     </associationConnector>
-    <associationConnector edgePoints="[(5.375 : 5.09699625651042); (7.125 : 5.09699625651042)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+    <associationConnector edgePoints="[(5.625 : 5.22199625651042); (7.125 : 5.22199625651042)]" fixedFrom="Algorithm" fixedTo="Algorithm">
       <AssociationMoniker Name="/LinqToSqlDataClassesDataContext/ReadingSession/ReadingSession_ReaderReadingSession" />
       <nodes>
         <classShapeMoniker Id="c2fae212-03bd-4802-9fba-3984c49dc1a0" />
