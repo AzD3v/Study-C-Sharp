@@ -312,6 +312,51 @@ namespace dbproject
                 ShowPlayers();
             }
         }
+
+        private void UpdateTeam_Click(object sender, RoutedEventArgs e)
+        {
+            try
+            {
+                string query = "update Team set Name = @Name where id = @TeamId";
+                SqlCommand sqlCommand = new SqlCommand(query, sqlConnection);
+                sqlConnection.Open();
+                sqlCommand.Parameters.AddWithValue("@TeamId", listTeams.SelectedValue);
+                sqlCommand.Parameters.AddWithValue("@Name", myTextBox.Text);
+                sqlCommand.ExecuteScalar();
+            }
+            catch (Exception exc)
+            {
+                // MessageBox.Show(exc.ToString());
+            }
+            finally
+            {
+                sqlConnection.Close();
+                ShowTeams();
+            }
+        }
+
+        private void UpdatePlayer_Click(object sender, RoutedEventArgs e)
+        {
+            try
+            {
+                string query = "update Player set Name = @Name where id = @PlayerId";
+                SqlCommand sqlCommand = new SqlCommand(query, sqlConnection);
+                sqlConnection.Open();
+                sqlCommand.Parameters.AddWithValue("@PlayerId", listPlayers.SelectedValue);
+                sqlCommand.Parameters.AddWithValue("@Name", myTextBox.Text);
+                sqlCommand.ExecuteScalar();
+            }
+            catch (Exception exc)
+            {
+                MessageBox.Show(exc.ToString());
+            }
+            finally
+            {
+                sqlConnection.Close();
+                ShowTeams();
+            }
+        }
+
         private void listTeams_SelectionChanged(object sender, SelectionChangedEventArgs e)
         {
             ShowAssociatedPlayers();
@@ -321,6 +366,6 @@ namespace dbproject
         private void listPlayers_SelectionChanged(object sender, SelectionChangedEventArgs e)
         {
             ShowSelectedPlayerInTextBox();
-        }
+        } 
     }
 }

@@ -17,11 +17,10 @@
         <Button Content="Remove player" HorizontalAlignment="Left" Margin="201,212,0,0" VerticalAlignment="Top" Width="129" Click="DeleteTeamPlayer_Click"/>
         <Button Click="AddTeam_Click" Content="Add team" HorizontalAlignment="Left" Margin="23,284,0,0" VerticalAlignment="Top" Width="129"/>
         <Button Click="AddPlayer_Click" Content="Add player" HorizontalAlignment="Left" Margin="202,284,0,0" VerticalAlignment="Top" Width="129"/>
-        <Button Content="Update team" HorizontalAlignment="Left" Margin="201,309,0,0" VerticalAlignment="Top" Width="129"/>
-        <Button Content="Update team" HorizontalAlignment="Left" Margin="23,309,0,0" VerticalAlignment="Top" Width="129"/>
+        <Button Click="UpdatePlayer_Click" Content="Update player" HorizontalAlignment="Left" Margin="201,309,0,0" VerticalAlignment="Top" Width="129" Click="Button_Click"/>
+        <Button Click="UpdateTeam_Click" Content="Update team" HorizontalAlignment="Left" Margin="23,309,0,0" VerticalAlignment="Top" Width="129"/>
         <Button Click="DeletePlayer_Click" Content="Delete player" HorizontalAlignment="Left" Margin="383,318,0,0" VerticalAlignment="Top" Width="149" RenderTransformOrigin="0.5,0.5"></Button>
         <Button Click="AddPlayerToTeam_Click" Content="Add player to team" HorizontalAlignment="Left" Margin="383,12,0,0" VerticalAlignment="Top" Width="149" RenderTransformOrigin="0.5,0.5"></Button>
         <TextBox Name="myTextBox" HorizontalAlignment="Left" Height="23" Margin="23,247,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="307" RenderTransformOrigin="-0.542,1.174"/>
     </Grid>
 </Window>
- 

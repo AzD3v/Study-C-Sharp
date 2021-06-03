@@ -1,0 +1,13 @@
+C:\Users\Paulo\source\repos\ThreadJoinIsAlive\ThreadJoinIsAlive\bin\Debug\netcoreapp3.1\ThreadJoinIsAlive.exe
+C:\Users\Paulo\source\repos\ThreadJoinIsAlive\ThreadJoinIsAlive\bin\Debug\netcoreapp3.1\ThreadJoinIsAlive.deps.json
+C:\Users\Paulo\source\repos\ThreadJoinIsAlive\ThreadJoinIsAlive\bin\Debug\netcoreapp3.1\ThreadJoinIsAlive.runtimeconfig.json
+C:\Users\Paulo\source\repos\ThreadJoinIsAlive\ThreadJoinIsAlive\bin\Debug\netcoreapp3.1\ThreadJoinIsAlive.runtimeconfig.dev.json
+C:\Users\Paulo\source\repos\ThreadJoinIsAlive\ThreadJoinIsAlive\bin\Debug\netcoreapp3.1\ThreadJoinIsAlive.dll
+C:\Users\Paulo\source\repos\ThreadJoinIsAlive\ThreadJoinIsAlive\bin\Debug\netcoreapp3.1\ThreadJoinIsAlive.pdb
+C:\Users\Paulo\source\repos\ThreadJoinIsAlive\ThreadJoinIsAlive\obj\Debug\netcoreapp3.1\ThreadJoinIsAlive.csprojAssemblyReference.cache
+C:\Users\Paulo\source\repos\ThreadJoinIsAlive\ThreadJoinIsAlive\obj\Debug\netcoreapp3.1\ThreadJoinIsAlive.AssemblyInfoInputs.cache
+C:\Users\Paulo\source\repos\ThreadJoinIsAlive\ThreadJoinIsAlive\obj\Debug\netcoreapp3.1\ThreadJoinIsAlive.AssemblyInfo.cs
+C:\Users\Paulo\source\repos\ThreadJoinIsAlive\ThreadJoinIsAlive\obj\Debug\netcoreapp3.1\ThreadJoinIsAlive.csproj.CoreCompileInputs.cache
+C:\Users\Paulo\source\repos\ThreadJoinIsAlive\ThreadJoinIsAlive\obj\Debug\netcoreapp3.1\ThreadJoinIsAlive.dll
+C:\Users\Paulo\source\repos\ThreadJoinIsAlive\ThreadJoinIsAlive\obj\Debug\netcoreapp3.1\ThreadJoinIsAlive.pdb
+C:\Users\Paulo\source\repos\ThreadJoinIsAlive\ThreadJoinIsAlive\obj\Debug\netcoreapp3.1\ThreadJoinIsAlive.genruntimeconfig.cache
