@@ -8,24 +8,19 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\PauloCunha\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\Paulo\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\PauloCunha\\Desktop\\examples-c-sharp\\Hashtables\\Hashtables\\Hashtables.csproj",
+      "projectUniqueName": "C:\\Users\\Paulo\\Desktop\\examples-c-sharp\\Hashtables\\Hashtables\\Hashtables.csproj",
       "projectName": "Hashtables",
-      "projectPath": "C:\\Users\\PauloCunha\\Desktop\\examples-c-sharp\\Hashtables\\Hashtables\\Hashtables.csproj",
-      "packagesPath": "C:\\Users\\PauloCunha\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\PauloCunha\\Desktop\\examples-c-sharp\\Hashtables\\Hashtables\\obj\\",
+      "projectPath": "C:\\Users\\Paulo\\Desktop\\examples-c-sharp\\Hashtables\\Hashtables\\Hashtables.csproj",
+      "packagesPath": "C:\\Users\\Paulo\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Paulo\\Desktop\\examples-c-sharp\\Hashtables\\Hashtables\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\PauloCunha\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\Paulo\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -65,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.300\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
       }
     }
   }

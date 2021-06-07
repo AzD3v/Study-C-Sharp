@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Paulo\\Desktop\\examples-c-sharp\\Dictionaries\\Dictionaries\\Dictionaries.csproj",
-      "projectName": "Dictionaries",
-      "projectPath": "C:\\Users\\Paulo\\Desktop\\examples-c-sharp\\Dictionaries\\Dictionaries\\Dictionaries.csproj",
+      "projectUniqueName": "C:\\Users\\Paulo\\source\\repos\\LazyInitialization\\LazyInitialization\\LazyInitialization.csproj",
+      "projectName": "LazyInitialization",
+      "projectPath": "C:\\Users\\Paulo\\source\\repos\\LazyInitialization\\LazyInitialization\\LazyInitialization.csproj",
       "packagesPath": "C:\\Users\\Paulo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Paulo\\Desktop\\examples-c-sharp\\Dictionaries\\Dictionaries\\obj\\",
+      "outputPath": "C:\\Users\\Paulo\\source\\repos\\LazyInitialization\\LazyInitialization\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Paulo\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Paulo\\Desktop\\examples-c-sharp\\Hashtables\\Hashtables\\Hashtables.csproj": {}
+    "C:\\Users\\Paulo\\source\\repos\\LazyInitialization\\LazyInitialization\\LazyInitialization.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Paulo\\Desktop\\examples-c-sharp\\Hashtables\\Hashtables\\Hashtables.csproj": {
+    "C:\\Users\\Paulo\\source\\repos\\LazyInitialization\\LazyInitialization\\LazyInitialization.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Paulo\\Desktop\\examples-c-sharp\\Hashtables\\Hashtables\\Hashtables.csproj",
-        "projectName": "Hashtables",
-        "projectPath": "C:\\Users\\Paulo\\Desktop\\examples-c-sharp\\Hashtables\\Hashtables\\Hashtables.csproj",
+        "projectUniqueName": "C:\\Users\\Paulo\\source\\repos\\LazyInitialization\\LazyInitialization\\LazyInitialization.csproj",
+        "projectName": "LazyInitialization",
+        "projectPath": "C:\\Users\\Paulo\\source\\repos\\LazyInitialization\\LazyInitialization\\LazyInitialization.csproj",
         "packagesPath": "C:\\Users\\Paulo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Paulo\\Desktop\\examples-c-sharp\\Hashtables\\Hashtables\\obj\\",
+        "outputPath": "C:\\Users\\Paulo\\source\\repos\\LazyInitialization\\LazyInitialization\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Paulo\\AppData\\Roaming\\NuGet\\NuGet.Config",
